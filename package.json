@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-twitter-bot",
+  "version": "1.0.0",
+  "description": "Nodejs Bot which tweets cheers!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harshmakadia/nodejs-twitter-bot.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Twitter"
+  ],
+  "author": "Harsh Makadia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harshmakadia/nodejs-twitter-bot/issues"
+  },
+  "homepage": "https://github.com/Harshmakadia/nodejs-twitter-bot#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
